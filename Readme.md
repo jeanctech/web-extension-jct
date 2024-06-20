@@ -1,10 +1,10 @@
-# Qwik - Documentation
+# Solid - Documentation
 
 [![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
-## What is Qwik?
+## What is Solid?
 
-Qwik is a new fast and lightweight web framework that focuses on performance and modular development. Here's an introduction. Qwik lets you build web applications by compiling components into efficient JavaScript. It was created by the Builder.io team led by Tim Kadlec aiming to fix performance problems with some current frameworks.
+Solid is a declarative JavaScript library for creating user interfaces. Instead of using a Virtual DOM, it compiles its templates to real DOM nodes and updates them with fine-grained reactions. Declare your state and use it throughout your app, and when a piece of state changes, only the code that depends on it will rerun.
 
 ## Index
 
@@ -15,7 +15,7 @@ Qwik is a new fast and lightweight web framework that focuses on performance and
 
 ## Introduction
 
-In summary, Qwik focuses on radically fast render times through optimized and compiled components along with partial hydration and time-slicing techniques. It aims to bring a snappy native-app feel to the web efficiently. The project is open source and being developed publicly on GitHub by talented engineers like Evan You (Vue.js creator). Qwik definitely seems promising for the future of web development with its innovative performance ideas.
+Meticulously engineered for performance and with half a decade of research behind it, Solid's performance is almost indistinguishable from optimized vanilla JavaScript (See Solid on the JS Framework Benchmark). Solid is small and completely tree-shakable, and fast when rendering on the server, too.
 
 ## Important information and frequently asked questions
 
@@ -26,13 +26,13 @@ Thank you very much for all the support shown!
 
 ## Links of Interest
 
-* [Qwik Official Website](https://qwik.builder.io/)
+* [Solid Official Website](https://www.solidjs.com/)
 
-* [Official Qwik in Spanish](https://qwik.builder.io/docs/)
+* [Official Solid in Spanish](https://www.solidjs.com/guides/getting-started)
 
-* [30 Days of Qwik Repository](https://github.com/qwikifiers/qwik-ui)
+* [30 Days of Solid Repository](https://github.com/solidjs/solid)
 
-* [Game to Learn Qwik](https://qwik.builder.io/tutorial/welcome/overview/)
+* [Game to Learn Solid](https://playground.solidjs.com/)
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
 
